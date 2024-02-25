@@ -1,4 +1,7 @@
 #!/bin/bash
+#
+# https://github.com/moddie666/trsync.sh
+#
 # CREATE A FILE CALLED "TNUM" AT THE LOCATION YOU'RE RUNNING FROM
 # TO ADJUST THREADCOUNT FOR THIS SCRIPT. (E.G. echo -n "25" > TNUM)
 
